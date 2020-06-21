@@ -1,1 +1,1 @@
-# Devops_Parctice
+to practice Devops
