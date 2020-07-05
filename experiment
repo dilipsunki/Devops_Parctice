@@ -1,8 +1,0 @@
-for file in doc3 doc4
-do
-    if [ $file == doc3 ] then
-        echo "need to face interview" >> $file
-    else
-        echo "practice hard" >> $file
-    fi
-done
